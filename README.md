@@ -11,7 +11,7 @@
       🏆 Focused on <b>continuous learning, problem-solving, and innovation</b>
     </td>
     <td align="right">
-      <img src="https://i.pinimg.com/originals/95/71/7f/95717f5700f2b66b58402f32f4915db7.gif" width="150"/>
+      <img src="https://i.pinimg.com/originals/95/71/7f/95717f5700f2b66b58402f32f4915db7.gif" width="400" height="175"/>
     </td>
   </tr>
 </table>
