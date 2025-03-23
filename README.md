@@ -12,7 +12,7 @@
   
 #
 
-<img align="right" alt="" width="350px" height="290px" src="https://i.pinimg.com/originals/95/71/7f/95717f5700f2b66b58402f32f4915db7.gif">
+<img align="right" alt="" width="350px" height="290px" src="https://i.pinimg.com/originals/78/8a/b3/788ab37a7dbb5970737121f73aa2dfeb.gif">
 
 <h3 align="left">Tech Stack </h3>
 
